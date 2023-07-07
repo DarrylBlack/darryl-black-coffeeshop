@@ -1,0 +1,115 @@
+.headingthree_nav_changes {
+    font-size: 3.0625rem;
+    font-weight: 300;
+}
+
+.list-changes {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding-top: 6.25rem;
+    padding-left: 2.5rem;
+}
+
+.navlist_changes {
+    font-size: 1.3125rem;
+    font-weight: 400;
+    list-style-type: none;
+    text-decoration: none;
+    padding-right: 20px;
+    color: #393939;
+}
+
+.navlist_changes--blue {
+    color: #5BACC3;
+}
+
+
+.background_color {
+    background-color: #FFF0ED;
+}
+
+.background_color--footer {
+    background-color: #FFF0ED;
+    padding-bottom: 17%;
+    height: 100%;
+}
+
+.nav-grouping {
+    display:flex;
+    align-items: center;
+    height: 6.875rem;
+    padding-left: 1.25rem;
+}
+
+
+.heading_onetwo_changes {
+    font-size: 3.75rem;
+    font-weight: 18.75rem;
+    margin-top: 44px;
+}
+
+.card-modification {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 45px
+}
+
+.paragraph_modification--regular {
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+.paragraph_modification--prices {
+    font-size: 2.1875rem;
+    font-weight: 400;
+    color:#5BACC3;
+}
+
+.button_modification {
+    background-color: #5BACC3;
+    color: white;
+    font-size: 1.3125rem;
+    font-weight: 400;
+    border: none;
+    width: 11.25rem;
+    padding: 20px;
+}
+
+.card-border {
+    Width: 330px;
+    Height: 440px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 9px -1px rgba(0, 0, 0, 0.25);
+}
+
+.centering {
+    text-align: center;
+}
+
+.picture_height_modification {
+    height: 17.5rem;
+}
+
+.discount_background {
+    width: 90%;
+    background-color: #393939;
+    color: #fff;
+}
+
+.discount_text {
+    font-size: 2.8125rem;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.paragraph_text_bold {
+    font-weight: bold;
+}
+
+.logo_width {
+    width: 3.125rem;
+}

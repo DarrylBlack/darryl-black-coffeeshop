@@ -1,0 +1,158 @@
+.coffee-beans-logo-and-footer {
+    width: 3.125rem;
+    display: inline-block;
+}
+
+.menu_background_letters {
+    width: 18.75rem;
+    height: 12.5rem;
+    background-color: #393939;
+    font-family: "Open Sans";
+    font-size: 3.75rem;
+    font-weight: 300;
+    color: #fff;
+    text-align: center;
+    margin-left: 37.5rem;
+}
+
+.coffee_circle {
+    background-image: url(../assets/images/Assets/coffee-circle.jpg);
+    width: 100%;
+    height: 37.75rem;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu-bar {
+    background-color: #393939;
+    width: 100%;
+    height: 76px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.background {
+    margin-top: 0rem;
+    align-items: center;
+    width: 34%;
+    height: 100%;
+    padding-left: 0%;
+}
+
+.background__list {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.menulist_changes{
+    list-style-type: none;
+    text-align: center;
+    color: #fff;
+    font-size: 1.3125rem;
+    font-weight: 400;
+}
+
+.menulist_changes:visited {
+    color: #fff;
+}
+
+.remove_underline {
+    text-decoration: none;
+}
+
+.background__list--border {
+    border-left: 4px solid #5BACC3;
+    padding-left: 20px;
+}
+
+.navlist_changes {
+    font-size: 1.3125rem;
+    font-weight: 400;
+    list-style-type: none;
+}
+
+.heading_onetwo_changes {
+    font-size: 3.75rem;
+    font-weight: 300;
+    padding-top: 25px;
+    height: 50px;
+}
+
+.heading_one_changes {
+    font-size: 3.4375rem;
+    font-weight: 300;
+    display: inline-block;
+}
+
+.centering {
+    text-align: center;
+}
+
+.paragraph_modification {
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 400;
+    font-style: italic;
+    width: 30%;
+    padding-left: 32.8125rem;
+    margin-top: -1.25rem;
+}
+
+
+.headingthree_nav_changes {
+    font-size: 2.0625rem;
+    font-weight: 300;
+}
+
+.moneytext_format {
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: #5BACC3;
+}
+
+.background_color {
+    background-color: #FFF0ED;
+    margin-top: -3.125rem;
+    margin-bottom: -3.125rem;
+    padding-bottom: 50px;
+}
+
+.background_color_two {
+    background-color: #F7F7F7;
+    margin-top: -3.125rem;
+    padding-bottom: 50px;
+}
+
+
+.element_grouping {
+    display: inline-block;
+    margin: .875rem;
+    text-decoration: none;
+    color: #393939;
+}
+
+.element_padding {
+    margin-left: 1.25rem;
+    margin-right: -1.25rem;
+}
+
+.background_color--three {
+    background-color: #FFF0ED;
+    margin-bottom: -3rem;
+    margin-top: -3.125rem;
+    margin-left: -0.3125rem;
+    margin-right: -0.3125rem;
+}
+
+.element_shopnow_coloring {
+    color: #5BACC3;
+}
+
+.element_lining {
+    display: inline
+}
